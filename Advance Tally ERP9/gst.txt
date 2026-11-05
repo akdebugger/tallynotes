@@ -1,0 +1,24 @@
+Goods & Service Tax 
+It is applicable to all over India
+
+Dual GST
+
+In india there are two goverment 
+Central Govt
+State Govt
+
+Tax Classification
+CGST	Central GST
+SGST	State GST
+IGST	Integrated GST
+
+Intra State Transaction (Within State)
+CGST	50%
+SGST	50%
+
+Eg:- Seller of Maharashtra and Buyer of Maharashtra
+
+Inter State Transaction (One State to Another State)
+IGST 	100%
+
+Eg:- Seller of Maharashtra and Buyer of Telangana
